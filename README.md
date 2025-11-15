@@ -20,16 +20,6 @@
 
 --- 
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=merlinhose&show_icons=true&theme=radical" alt="GitHub Stats" width="30%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=merlinhose&theme=radical" alt="GitHub Streak" width="30%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=merlinhose&layout=compact&theme=radical" alt="Top Languages" width="30%" />
-</p>
-
----
-
-## 💻 Tech Stack
-
 <div align="center">
 
 | Languages | Web | Databases | Game Dev | Tools |
