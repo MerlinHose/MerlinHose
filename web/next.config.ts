@@ -2,7 +2,8 @@ import type { NextConfig } from "next";
 
 const nextConfig: NextConfig = {
   output: "export",
-  assetPrefix: "./",
+  assetPrefix: "/MerlinHose/",
+  basePath: "/MerlinHose",
 };
 
 export default nextConfig;
